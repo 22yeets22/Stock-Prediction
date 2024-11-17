@@ -2,11 +2,6 @@
 This Stock Prediction app allows you to analyze and predict stock prices using any dataset of your choice.
 
 
-Sure! Here's a finished version:
-
-Stock Prediction in Python
-This Stock Prediction app allows you to analyze and predict stock prices using any dataset of your choice.
-
 ## Features
 - Flexible Dataset Input: Any stock in CSV format (from Yahoo Finance works best)
 - Data Visualization: Interactive charts for historical trends and price movements.
